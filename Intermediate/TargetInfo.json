@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Starfighter_1",
+			"Path": "D:\\Unreal Projects\\Starfighter_1\\Source\\Starfighter_1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Starfighter_1Editor",
+			"Path": "D:\\Unreal Projects\\Starfighter_1\\Source\\Starfighter_1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

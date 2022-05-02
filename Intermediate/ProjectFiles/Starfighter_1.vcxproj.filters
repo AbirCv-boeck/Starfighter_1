@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Starfighter_1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{95AA3A91-4D3E-4A27-8BB1-7C3529488E18}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Starfighter_1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Starfighter_1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FAC00B3F-E128-408D-BF51-1FB26D328E93}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Starfighter_1">
+      <UniqueIdentifier>{45D01F2C-A131-4084-9C99-99E461EC6686}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Starfighter_1\Nave.cpp">
+      <Filter>Source\Starfighter_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Starfighter_1\Nave.h">
+      <Filter>Source\Starfighter_1</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Starfighter_1\Starfighter_1.Build.cs">
+      <Filter>Source\Starfighter_1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Starfighter_1\Starfighter_1.cpp">
+      <Filter>Source\Starfighter_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Starfighter_1\Starfighter_1.h">
+      <Filter>Source\Starfighter_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Starfighter_1\Starfighter_1GameModeBase.cpp">
+      <Filter>Source\Starfighter_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Starfighter_1\Starfighter_1GameModeBase.h">
+      <Filter>Source\Starfighter_1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
